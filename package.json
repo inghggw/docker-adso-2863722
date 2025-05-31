@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
+
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+
+}
