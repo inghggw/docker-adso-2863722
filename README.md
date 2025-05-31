@@ -2,6 +2,8 @@
 
 Dockerizar una app con node js
 
+![Flujo de trabajo con Docker](docker-workflow.png)
+
 ## Prerrequisitos
 
 Asegúrate de tener Docker instalado en tu sistema. Puedes descargarlo e instalarlo desde [el sitio web oficial de Docker](https://www.docker.com/get-started).
